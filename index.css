@@ -1,0 +1,14 @@
+body{
+    font-family: 'Indie Flower', cursive;
+
+    color: tomato;
+    background-color: black;
+}
+.container{
+    display: grid;
+    text-align: center;
+}
+
+.buttons{
+margin-top: 4vh;
+}
